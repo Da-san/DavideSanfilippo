@@ -1,0 +1,35 @@
+html {
+    background-color: #f0f0f0;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: lighter;
+    margin-top: -50px;
+    margin-left: 20px;
+    color: #ffffff;
+}
+
+#container {
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 10px;
+}
+
+form {
+   background-color: #d8d8d8;
+    padding: 5px;
+    border: 2px solid #f0f0f0;
+    margin-bottom: 20px;
+}
+
+p {
+    border-bottom: 2px solid #d8d8d8;
+    padding: 10px 0 10px 25px;
+    background-image: url("https://cdn0.iconfinder.com/data/icons/typicons-2/24/star-24.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
